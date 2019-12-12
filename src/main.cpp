@@ -20,7 +20,7 @@ Updates by Jeff Mizener:
 Adapted for the Platform IO environment
 Modified to work with the Sabertooth motor controller 10/2019, incremental increase in functionality
 
-Project sponsored by Workchops, Dallas TX
+Project sponsored by Workchops, Dallas TX October 2019
 */
 
 
